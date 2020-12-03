@@ -1,21 +1,21 @@
-# Only If Death Awaits
+# Only Death Awaits!
 
 An open-sourced 2-D adventure game.
 
 ## Quick Start
 
-This open-sourced 2-D adventure game written in Java, as created intended to play through the story-lines. Throughout the game, the user has three different pathways, but only one of the paths leads you to survival. While running through the game, the user can collect achievements and earn different unlocks. Good luck and have fun through Only If Death Awaits!  
+This open-sourced 2-D adventure game is written in Java and JavaFX, the game is intended to play through the story-lines of different scenes. Throughout the game, the user has three different pathways, but only one of the paths leads you to survival. While playing through the game, the user can unlock a variety of different achievements. Good luck and have fun while playing our game: "Only If Death Awaits!".
 
 ## Tasks 
  Completion of the Game 
-- [x] Update Forest Pathway
-- [x] Added achievements to Town Pathway
-- [x] Implemented Scoreboard
+- [x] New and improved pathways
+- [x] Added achievements to all pathways
+- [x] Variety of different pathways and scenes
 
 ## Version 
 
  V.01
-  The first release for Only If Death Awaits! 
+  The first release for: Only Death Awaits! 
 
 ## Authors
 
