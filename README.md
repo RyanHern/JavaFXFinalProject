@@ -8,11 +8,11 @@ This open-sourced 2-D adventure game is written in Java and JavaFX, the game is 
 
 ## Link to Examples
 
-<img src="https://prnt.sc/vur4zs" alt="Main Menu">
+* Main Menu: https://prnt.sc/vur4zs
 
-<img src="https://prnt.sc/vur5zs" alt="Main Menu">
+* Living Room: https://prnt.sc/vur5zs
 
-<img src="https://prnt.sc/vur65c" alt="Main Menu">
+* Path Selection: https://prnt.sc/vur65c
 
 ## Description 
 
